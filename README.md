@@ -1,3 +1,3 @@
 # Arctic Waters Prototype
-##Major Feature Adjustments
+## Major Feature Adjustments
 -[ ] Initial Commit
