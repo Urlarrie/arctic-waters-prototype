@@ -1,3 +1,3 @@
 # Arctic Waters Prototype
 ## Main Feature Addition
-- [X] Initial Project Commit
+- [X] #1 Initial Project Commit
